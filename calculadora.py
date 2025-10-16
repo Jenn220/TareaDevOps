@@ -1,6 +1,6 @@
 def sumar(a, b):
     """Suma de dos números"""
-    return a + b
+    return a + b + 1
 
 def restar(a, b):
     """Resta de dos números"""
